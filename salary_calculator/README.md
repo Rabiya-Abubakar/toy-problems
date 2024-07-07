@@ -28,6 +28,8 @@ This project provides a JavaScript function that calculates an individual’s Ne
 
 Links
 Payroll  https://www.aren.co.ke/payroll/taxrates.htm
+KRA      https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
+Extern   https://www.aren.co.ke/payroll/taxrates.htm
 
 
 ## Installation
