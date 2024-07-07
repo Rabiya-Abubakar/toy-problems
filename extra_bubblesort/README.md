@@ -5,7 +5,7 @@
 
 This project provides a JavaScript function that sorts an array of numbers using the bubble sort algorithm. It serves as an example of basic sorting techniques in JavaScript.
 
-####Table of Contents
+## Table of Contents
 
 - [Sorting Function in JavaScript](#sorting-function-in-javascript)
   - [Table of Contents](#table-of-contents)
