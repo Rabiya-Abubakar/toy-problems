@@ -1,3 +1,4 @@
+//Solution.js
 function checkSpeed() {
     let speed = prompt("Enter the speed of the car (in km/h):");
 
