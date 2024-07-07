@@ -36,7 +36,6 @@ D: Marks between 40 and 49
 E: Marks less than 40
 FILES
 index.js: The main file that runs the program.
-helper.js: Contains helper functions used in the program.
 
 Enter student marks Rabiya: 85  
 it prints: Grade: A
