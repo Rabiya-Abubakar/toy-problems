@@ -1,8 +1,6 @@
 # TOY PROBLEMS
 
-## Coding Challenges
-
-### Net Salary Calculation in JavaScript
+## Challenge 3: Net Salary Calculator
 
 This project implements a JavaScript program to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. The program calculates the payee (i.e., Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary using the rates provided by the Kenya Revenue Authority (KRA).
 
