@@ -1,8 +1,6 @@
 # TOY PROBLEMS
 
-## Coding Challenges
-
-### Student Marks Grading Function in JavaScript
+## Challenge 1: Student Grade Generator
 
 This project implements a JavaScript function that prompts the user to input student marks and outputs the corresponding grade.
 
