@@ -1,5 +1,6 @@
-# TOY PROBLEMS
-## Coding Challenges
+# Extra Practice Questions
+
+## (BubbleSort)
 
 ### Sorting Function in JavaScript
 
