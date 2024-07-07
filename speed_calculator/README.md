@@ -10,13 +10,5 @@ Input the speed of the car when prompted. The program will calculate and display
 
 It uses conditional statements to check the speed input. It calculates demerit points based on how much the speed exceeds the limit. It checks if the demerit points exceed the threshold for license suspension. javascript
 
-Speed Demerit Point 
-75 1 
-85 3 
-95 5 
-105 7
-110 8 
-115 9
-125 11
-135 12
+
 
