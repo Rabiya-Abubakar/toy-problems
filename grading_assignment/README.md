@@ -2,7 +2,7 @@
 
 ## Coding Challenges
 
-# Student Marks Grading Function in JavaScript
+### Student Marks Grading Function in JavaScript
 
 This project implements a JavaScript function that prompts the user to input student marks and outputs the corresponding grade.
 
