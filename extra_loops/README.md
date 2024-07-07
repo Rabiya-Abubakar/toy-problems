@@ -1,6 +1,6 @@
-# TOY PROBLEMS
+# Extra Practice Questions:
 
-## Coding Challenges
+## (Loops)
 
 ### Staircase Function in JavaScript
 
