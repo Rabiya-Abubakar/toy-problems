@@ -1,3 +1,4 @@
+//Solution.js
 function getStudentGrade() {
   while (true) {
     const mark = parseFloat(prompt("Enter student mark (between 0 and 100): "));
