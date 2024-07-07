@@ -1,4 +1,4 @@
-// JS Solution
+// Solution.js
 
 function bubbleSort(arr) {
     let len = arr.length;
